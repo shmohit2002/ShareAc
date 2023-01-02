@@ -6,7 +6,7 @@
       "default_popup": "popup.html",
       "type":"module"
    },
-   "description": "This Extension is developed by DUO CODIES",
+   "description": "This Extension is developed by DUO CODIES and migrated by git:shmohit2002",
    "icons": {
       "128": "icon128.png",
       "48": "icon48.png"
