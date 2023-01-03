@@ -10,10 +10,17 @@
     <img src="https://avatars.githubusercontent.com/u/79436918?s=200&v=4g" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">WeFlix</h3>
+  <h3 align="center">ShareAc - migrated from WeFlix</h3>
+
+<h4 align="center">Message from ShareAc Developer</h4>
 
   <p align="center">
-    Share your Netflix Account Without Password
+This project is a clone of the original WeFlix by DUOCODIES. There were many changes made to the initial code.<br>
+  The project was migrated from manifest 2 to manifest 3 to support latest web browsers and latest security compliances. This version supports a wide variety of website to share the session without the need of credentials. The initial code was revamped and made efficient to make the extension more lightweight then earlier.
+
+  
+  <b>Intro:</b><br>
+  Share your Netflix Account Without Password
     <br />
     <br />
     <br />
