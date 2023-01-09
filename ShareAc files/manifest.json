@@ -12,7 +12,7 @@
       "48": "icon48.png"
    },
    "minimum_chrome_version": "30",
-   "name": "DUO FLIX",
+   "name": "ShareAc - formely DUO FLIX",
    "permissions": [ "cookies", "clipboardRead", "activeTab" , "scripting", "tabs"],
    "optional_host_permissions":["*://*/*"],
    "version": "1.1"
