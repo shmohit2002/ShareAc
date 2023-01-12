@@ -20,7 +20,7 @@ This project is a clone of the original WeFlix by DUOCODIES. There were many cha
 
   
   <b>Intro:</b><br>
-  Share your Netflix Account Without Password
+  Share your Account Without Password
     <br />
     <br />
     <br />
@@ -59,7 +59,7 @@ This project is a clone of the original WeFlix by DUOCODIES. There were many cha
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A simple Chrome Extension to share your netflix account with friends without password.
+A simple Chrome Extension to share your account with friends without password. You can share the accounts of the websites like Hotstar, Netflix, and many more.
 It uses Cookies transfer in an encrypted Format.
 
 
