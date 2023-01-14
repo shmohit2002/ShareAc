@@ -71,7 +71,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Download the Extension [Here](https://github.com/wecodeorg/WeFlix/archive/refs/heads/main.zip)
+1. Download the Extension [Here](https://github.com/shmohit2002/ShareAc/releases/download/first-release/ShareAc.v1.zip)
 
 2. Unzip the Extension
 
