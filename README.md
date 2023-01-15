@@ -100,7 +100,7 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/wecodeorg/WeFlix/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/shmohit2002/ShareAc/issues) for a list of proposed features (and known issues).
 
 
 
