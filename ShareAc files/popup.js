@@ -1,5 +1,5 @@
 const AES_KEY = "iLFB0yJSLsObtH6tNcfXMqo7L8qcEHqZ";
-const startString = "Mohit "
+const startString = "SHAREAC "
 
 function importer(cookies, localstorage, sessionstorage) {
   import_cookies = function (cookie_string) {
