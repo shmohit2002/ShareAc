@@ -26,7 +26,7 @@ This project is a clone of the original WeFlix by DUOCODIES. There were many cha
     <br />
     <a href="#roadmap">Demo Code</a>
     ·
-    <a href="https://github.com/wecodeorg/WeFlix/issues">Report Bug</a>
+    <a href="https://github.com/shmohit2002/ShareAc/issues">Report Bug</a>
     
   </p>
 </p>
