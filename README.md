@@ -95,8 +95,7 @@ To get a local copy up and running follow these simple steps.
 
 ## UI Design
 ![image](https://user-images.githubusercontent.com/45468908/124236853-86b93880-db34-11eb-987b-e628bbf6c5c5.png)
-![image](https://user-images.githubusercontent.com/45468908/124237156-d992f000-db34-11eb-8eb1-34345285a8c5.png)       
-
+![image](https://user-images.githubusercontent.com/26142131/213521525-7df34bd1-9e1b-469b-b68a-9185ad74fc49.png)
 <!-- ROADMAP -->
 ## Roadmap
 
