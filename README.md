@@ -94,7 +94,7 @@ To get a local copy up and running follow these simple steps.
 2. Click Stream Button on Extension
 
 ## UI Design
-![image](https://user-images.githubusercontent.com/45468908/124236853-86b93880-db34-11eb-987b-e628bbf6c5c5.png)
+![image](https://user-images.githubusercontent.com/26142131/213742677-3fa1e9c6-1a5b-46e7-b4b4-d15748e47d25.png)
 ![image](https://user-images.githubusercontent.com/26142131/213521525-7df34bd1-9e1b-469b-b68a-9185ad74fc49.png)
 <!-- ROADMAP -->
 ## Roadmap
