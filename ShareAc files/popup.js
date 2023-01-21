@@ -62,7 +62,7 @@ $('#id_session_copy').click(async function () {
 });
 
 $('#id_session_paste').click(async function () {
-  // Currently the below line doesn't work hence it's alternative is used
+  // Currently the below line doesn't work, hence its alternative is used.
   // var text = await navigator.clipboard.readText();
   let clip = $("#clipboard")[0]
   clip.select()
