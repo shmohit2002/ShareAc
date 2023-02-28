@@ -15,8 +15,10 @@
 <h4 align="center">Message from ShareAc Developer</h4>
 
   <p align="center">
-This project is a clone of the original WeFlix by DUOCODIES. There were many changes made to the initial code.<br>
-  The project was migrated from manifest 2 to manifest 3 to support latest web browsers and latest security compliances. This version supports a wide variety of website to share the session without the need of credentials. The initial code was revamped and made efficient to make the extension more lightweight than earlier.
+This project is a copy of DUOCODIES's original WeFlix. The original code underwent a lot of changes.<br>
+To support the most recent web browsers and security compliances, the project was moved from manifest version 2 to manifest version 3.
+This version enables the sharing of sessions across a large number of websites without the need for login credentials.
+The original code was improved upon and made more effective in order to make the extension lighter than before. 
 
   
   <b>Intro:</b><br>
